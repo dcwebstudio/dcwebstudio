@@ -1,10 +1,10 @@
 ### Hi 👋 I'm Web Developer & Web Designer Also well known Digital Marketing.
 I am expert on web designing and have enormous knowledge in HTML, CSS, Resposive design, User Friendly design, Bootstrap 4 etc.  Along with these I am quite adept in the following skills as well:
 
-1.    HTML, CSS,  Bootstrap, Photoshop, Coreldraw
-2.    SEO, Responsive Design
-3.    Javascript, jquery
-4.    PSD to HTML
+1.    <b>HTML</b>, <b>CSS</b>,  <b>Bootstrap,</b>, <b>Photoshop</b>, <b>Coreldraw</b>
+2.    <b>SEO</b>, <b>Responsive Design</b>
+3.    <b>Javascript</b>, <b>jquery</b>
+4.    <b>PSD to HTML</b>
 - 💬 Ask me about: <b>HTML</b> <b>CSS</b> <b>BOOTSTRAP</b> <b>PHOTOSHOP</b>
 - 📫 How to reach me: deepchandmandal41@gmail.com
 <!--
