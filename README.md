@@ -6,7 +6,7 @@ I am expert on web designing and have enormous knowledge in HTML, CSS, Resposive
 3.    Javascript, jquery
 4.    PSD to HTML
 - 💬 Ask me about: <b>HTML</b> <b>CSS</b> <b>BOOTSTRAP</b> <b>PHOTOSHOP</b>
-- 📫 How to reach me: ...
+- 📫 How to reach me: deepchandmandal41@gmail.com
 <!--
 **dcwebstudio/dcwebstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
