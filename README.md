@@ -5,7 +5,7 @@ I am expert on web designing and have enormous knowledge in HTML, CSS, Resposive
 2.    SEO, Responsive Design
 3.    Javascript, jquery
 4.    PSD to HTML
-- 💬 Ask me about **Developer
+- 💬 Ask me about: <b>HTML</b>
 - 📫 How to reach me: ...
 <!--
 **dcwebstudio/dcwebstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
