@@ -1,4 +1,10 @@
 ### Hi 👋 I'm Web Developer & Web Designer Also well known Digital Marketing.
+I am expert on web designing and have enormous knowledge in HTML, CSS, Resposive design, User Friendly design, Bootstrap 4 etc.  Along with these I am quite adept in the following skills as well:
+
+1.    HTML, CSS,  Bootstrap, Photoshop, Coreldraw
+2.    SEO, Responsive Design
+3.    Javascript, jquery
+4.    PSD to HTML
 <!--
 **dcwebstudio/dcwebstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
